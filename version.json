@@ -1,17 +1,18 @@
 {
-  "version": "1.1.0",
+  "version": "1.3.0",
   "notes": [
-    "🌳 Nova Árvore de Almas com 9 perks permanentes",
-    "⚡ Perk Velocidade: +1 giro/s extra",
-    "💥 Perk Impacto: 5% chance de raridade dupla",
-    "👑 Perk Mestre da Aura: +100% de Poder",
-    "🎯 Perk Foco: +50% de Essência",
-    "🍀 Perk Fortuna: +20 de sorte",
-    "🔮 Perk Visão Arcana: mostra probabilidades em %",
-    "♻️ Perk Reciclagem: prestígio dá +25% almas",
-    "🔥 Perk Fúria Eterna: eventos duram 2× mais",
-    "🌟 Perk Lendário: Auto Play liga sozinho"
+    "🐉 Nova coleção de 15 Pets com bónus passivos",
+    "⭐ Pets desbloqueiam com feitos: giros, prestígio, mundos, raridades",
+    "🎯 Clica num pet para o tornar ativo (só 1 ativo de cada vez)",
+    "🖼️ Pet ativo aparece ao lado do orbe",
+    "🏅 Novo Sistema de Níveis com 9 títulos",
+    "⭐ XP por cada ação: giros, feitos, pets, prestígio",
+    "🌱 Novato → ⚔️ Aventureiro → 🛡️ Guerreiro → 🔮 Mago",
+    "👑 Mestre → 🐉 Lenda → ⭐ Mito → 🌟 Divindade → 👁️ Deus",
+    "⚡ +1% Poder e Essência por cada 5 níveis",
+    "📊 Barra de XP visível no topo",
+    "🏆 4 novos feitos ligados a níveis (10, 25, 50, 100)"
   ],
-  "downloadUrl": "https://github.com/BielzinYT/aura-infinita/releases/download/v1.1.0/Aura.Infinita.Setup.1.1.0.exe",
+  "downloadUrl": "https://github.com/BielzinYT/aura-infinita/releases/download/v1.3.0/Aura.Infinita.Setup.1.3.0.exe",
   "mandatory": false
 }
