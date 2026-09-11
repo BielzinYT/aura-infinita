@@ -1,0 +1,11 @@
+{
+  "version": "1.0.1",
+  "notes": [
+    "🎨 Novo ícone do jogo no desktop",
+    "🚀 Sistema de atualizações automáticas",
+    "✨ Splash screen com o logótipo",
+    "🐛 Pequenas correções de estabilidade"
+  ],
+  "downloadUrl": "https://github.com/TEU_USER/aura-infinita/releases/download/v1.0.1/Aura-Infinita-Setup-1.0.1.exe",
+  "mandatory": false
+}
