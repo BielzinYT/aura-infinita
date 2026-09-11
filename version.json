@@ -1,9 +1,16 @@
 {
-  "version": "1.2.0",
+  "version": "1.1.0",
   "notes": [
-    "🧪 Esta é uma atualização de teste",
-    "✨ Serve só para confirmar que o sistema funciona",
-    "🎯 Se vês este modal, está tudo OK!"
+    "🌳 Nova Árvore de Almas com 9 perks permanentes",
+    "⚡ Perk Velocidade: +1 giro/s extra",
+    "💥 Perk Impacto: 5% chance de raridade dupla",
+    "👑 Perk Mestre da Aura: +100% de Poder",
+    "🎯 Perk Foco: +50% de Essência",
+    "🍀 Perk Fortuna: +20 de sorte",
+    "🔮 Perk Visão Arcana: mostra probabilidades em %",
+    "♻️ Perk Reciclagem: prestígio dá +25% almas",
+    "🔥 Perk Fúria Eterna: eventos duram 2× mais",
+    "🌟 Perk Lendário: Auto Play liga sozinho"
   ],
   "downloadUrl": "https://github.com/BielzinYT/aura-infinita/releases/download/v1.1.0/Aura.Infinita.Setup.1.1.0.exe",
   "mandatory": false
